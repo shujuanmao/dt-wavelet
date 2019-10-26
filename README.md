@@ -15,7 +15,7 @@ Table of contents:
     Two synthetic waveforms for testing the codes.
     The synthetic seismograms are generated using velocity models of a homogeneous background superimposed by random heterogeneities. The perturbation between the current and reference velocity models is a homogeneous increase of 0.05% dv/v throughout the medium. (If interested, see Section 3.1 in the following reference for more details.)
 
-Reference: S.Mao, A.Mordret, M.Campillo, H.Fang, R.D.van der Hilst, (2019), On the Measurement of Seismic Travel-Time Changes in the Time-Frequency Domain with Wavelet Cross-Spectrum Analysis, GJI, In Review.
+Reference: S.Mao, A.Mordret, M.Campillo, H.Fang, R.D.van der Hilst, (2019), On the Measurement of Seismic Travel-Time Changes in the Time-Frequency Domain with Wavelet Cross-Spectrum Analysis, GJI, in print. doi:10.1093/gji/ggz495
 
 
 
