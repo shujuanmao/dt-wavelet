@@ -17,4 +17,4 @@ Table of contents:
 
 Reference: Mao, S., Mordret, A., Campillo, M., Fang, H., & van der Hilst, R. D. (2020). On the measurement of seismic traveltime changes in the time–frequency domain with wavelet cross-spectrum analysis. Geophysical Journal International, 221(1), 550-568.
 
-#### UPDATE May 2021: A new package in PYTHON of this method can be found here:https://github.com/Qhig/cross-wavelet-transform/releases/tag/v1.0.0
+#### UPDATE May 2021: A new package in PYTHON of this method can be found here: https://github.com/Qhig/cross-wavelet-transform/releases/tag/v1.0.0
