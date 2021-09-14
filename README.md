@@ -1,7 +1,7 @@
-#### CODE for MEASURING SEISMIC TRAVEL-TIME CHANGES with the WAVELET METHOD
+#### MATLAB code for measuring seismic travel-time changes with the wavelet method
 #### Contact: Shujuan Mao (maos@mit.edu) and Aurélien Mordret (aurelien.mordret@univ-grenoble-alpes.fr)
 
-This package contains codes and test data for measuring seismic travel-time shifts in the time-frequency domain using the wavelet cross-spectrum analysis. MATLAB R2018a (or higher version) and the MATLAB WAVELET TOOLBOX are needed to run the codes.
+This MATLAB code package contains codes and test data for measuring seismic travel-time shifts in the time-frequency domain using the wavelet cross-spectrum analysis. MATLAB R2018a (or higher version) and the MATLAB WAVELET TOOLBOX are needed to run the codes.
 
 Table of contents:
 
@@ -17,4 +17,4 @@ Table of contents:
 
 Reference: Mao, S., Mordret, A., Campillo, M., Fang, H., & van der Hilst, R. D. (2020). On the measurement of seismic traveltime changes in the time–frequency domain with wavelet cross-spectrum analysis. Geophysical Journal International, 221(1), 550-568.
 
-
+#### UPDATE May 2021: A new package in PYTHON of this method can be found here:https://github.com/Qhig/cross-wavelet-transform/releases/tag/v1.0.0
